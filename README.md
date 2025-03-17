@@ -16,17 +16,11 @@
 ---
 
 ### 最近关注
-- **AI 智能体开发**：结合 **Python & LLM**，探索智能 AI 代理  
-- **Web3 基础设施**：去中心化存储、智能合约开发  
+- **AI 智能体开发** LLM、AI-Agent、MCP 
+- **Web3 基础设施**：Wallet、Dapps
 - **自由职业者的工作模式**：数字游民的技术成长路径  
 
 ---
 
 ### 📊 GitHub 统计  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhentaoo&show_icons=true&theme=light)  
-
----
-
-### 🛠 技术栈
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=openai&logoColor=white) ![Web3](https://img.shields.io/badge/-Web3-008080?style=flat&logo=ethereum&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
