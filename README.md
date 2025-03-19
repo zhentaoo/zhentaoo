@@ -1,8 +1,8 @@
 👋 你好，我是 Zhentaoo！
 
 ###  **关于我**:
--  身份：数字游民 | AI + Web3 开发者 
--  前小红书 & 天猫 前端程序员，多年工程经验+管理经验
+-  Web开发：Node、React/view、AI、Web3
+-  公司履历：小红书、天猫、饿了么
 -  最近关注：Web3(wallet、solidity)，AI(LLM、Agent、MCP)
 ---
 
