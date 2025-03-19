@@ -1,7 +1,7 @@
 👋 你好，我是 Zhentaoo！
 
 ###  **关于我**:
--  Web开发：Node、React/view、AI、Web3
+-  Web开发：Node/Eggjs、React/VUE、AI、Web3
 -  公司履历：小红书、天猫、饿了么
 -  最近关注：Web3(wallet、solidity)，AI(LLM、Agent、MCP)
 ---
